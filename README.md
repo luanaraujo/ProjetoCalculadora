@@ -7,7 +7,7 @@
   <a href="#-tecnologias">Tecnologias</a>
 </p>
 <p align="center">
-  <a href="https://we.tl/t-yJwgZWzeTz">Calculadora</a>{target=_blank}
+  <a href="https://we.tl/t-yJwgZWzeTz" target="_blank">Calculadora</a>
 </p>
 
 ## Imagem do programa
