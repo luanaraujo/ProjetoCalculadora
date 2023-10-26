@@ -7,7 +7,7 @@
   <a href="#-tecnologias">Tecnologias</a>
 </p>
 <p align="center">
-  <a href="https://github.com/luanaraujo/ProjetoCalculadora/blob/main/Win32/Release/Calculadora.exe">Calculadora</a>
+  <a href="https://we.tl/t-yJwgZWzeTz">Calculadora</a>
 </p>
 
 ## Imagem do programa
