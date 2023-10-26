@@ -1,6 +1,6 @@
 <h1 align="center"> 📟 Calculadora 📟 </h1>
 
-<p align="center"> Projeto pessoal de uma simples calculadora desenvolvida em Delphi 11</p>
+<p align="center"> Projeto pessoal de uma simples calculadora desenvolvida em Delphi 11, para finalizar o curso que fiz na Udemy</p>
 <br/>
 
 <p align="center">
